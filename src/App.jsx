@@ -352,7 +352,7 @@ export default function Portfolio() {
             </FadeIn>
             <FadeIn delay={200}>
               <p style={{ color: "#555", fontSize: 13, letterSpacing: "0.05em", marginBottom: 40, lineHeight: 1.8, maxWidth: 480 }}>
-                Final-year B.Tech CSE student @ Sanaka. Currently an R&D Engineering Intern at{" "}
+                Final-year B.Tech CSE student @ Sanaka. Previously an R&D Engineering Intern at{" "}
                 <span style={{ color: accentGreen }}>Xempla</span>, building Decision Graph Engines with{" "}
                 <span style={{ color: accentOrange }}>FastAPI</span> & MongoDB.
                 Based in Durgapur, targeting{" "}
